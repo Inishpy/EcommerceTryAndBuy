@@ -78,4 +78,5 @@ Please make sure to update tests as appropriate.
  ![alt text](https://github.com/Inishpy/EcommerceTryAndBuy/blob/main/staticfiles/images/AliceVision.png?raw=true)
 
 [Blender](https://www.blender.org/about/license/)
+
 ![alt text](https://github.com/Inishpy/EcommerceTryAndBuy/blob/main/staticfiles/images/pngegg.png?raw)
